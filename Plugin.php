@@ -36,7 +36,7 @@ class Commentwx_Plugin implements Typecho_Plugin_Interface
     public static function deactivate()
     {
     }
-    
+ 
     /**
      * 获取插件配置面板
      *
