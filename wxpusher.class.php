@@ -252,7 +252,7 @@ class Wxpusher
      *      得到数据返回多维数组
      *      空数据返回 NULL
      */
-
+    
     public function getFunInfo($page = 1,$pageSize = 100,$uid = ''){
         $data = http_build_query(
             array(
